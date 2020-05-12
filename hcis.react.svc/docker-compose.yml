@@ -1,0 +1,11 @@
+version: '2'
+services:
+      
+  react-ui-boot:
+    image: leevy/hcis-react-ui-boot:dev-160120
+    hostname: react-ui-boot
+    ports: 
+      - 60037:60037
+    mem_limit: 512m      
+    environment:
+      - JVM_OPTS=-Xmx1024m -Xms1024m 
