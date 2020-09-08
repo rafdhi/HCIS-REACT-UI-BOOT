@@ -198,7 +198,7 @@
 						</goals>
 						<phase>prepare-package</phase>
 						<configuration>
-							<arguments>run build</arguments>
+							<arguments>run build_stg</arguments>
 						</configuration>
 					</execution>
     			</executions>
