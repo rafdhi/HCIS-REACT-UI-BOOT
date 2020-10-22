@@ -13,7 +13,7 @@
 
 	<properties>
 		<java.version>1.10</java.version>
-		<frontend-src-dir>${project.basedir}/app/HCIS-REACT-UI-master</frontend-src-dir>
+		<frontend-src-dir>${project.basedir}/app/HCIS-REACT-UI-master-BAG</frontend-src-dir>
 		<node.version>v10.16.0</node.version>
 		<yarn.version>v1.16.0</yarn.version>
 		<npm.version>v6.9.0</npm.version>
