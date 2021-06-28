@@ -198,7 +198,7 @@
 						</goals>
 						<phase>prepare-package</phase>
 						<configuration>
-							<arguments>run build_staging</arguments>
+							<arguments>run build_tab</arguments>
 						</configuration>
 					</execution>
     			</executions>
